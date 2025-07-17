@@ -37,7 +37,7 @@ const Input = ({ onChange }) => {
     )
 }
 
-// Мемоизированные версии компонентов
+// Мемоизированние компонентов
 const MemoizedRoot = memo(Root);
 const MemoizedInput = memo(Input);
 
